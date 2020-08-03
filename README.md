@@ -15,4 +15,6 @@ Lenses, faces, aliens and astronauts were built using Lens Studio and unity+vufo
 Since we were working on different components that too on different platforms, integrating all the different components together was a problem as we were having trouble importing unity models to lens studio.
 
 ## Accomplishments that we're proud of
-We were newbies to AR/VR and all of our work revolves around that. So gathering resources, getting to learn about "Lens studio" had to be completed in 48 hours. And proud of finishing our project and integrating all in the video. We experimented with a new platform and completed a project.
+We were newbies to AR/VR and all of our work revolves around that. So gathering resources, getting to learn about "Lens studio" had to be completed in 48 hours. And we are proud of finishing our project and integrating all in the video. We experimented with a new platform and completed a project and that is in itself a great achievement!
+
+### Update: we won second overall(yayy!)
