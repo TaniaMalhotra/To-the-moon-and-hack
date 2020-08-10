@@ -1,4 +1,4 @@
-# To-the-moon-and-hack --> (Update: we won second overall(yayy!))
+# To-the-moon-and-hack (Seccond overall winning submission)
 An AR based submission to a Major League Hackathon
 
 - This was a space themed hack.
@@ -17,4 +17,4 @@ Since we were working on different components that too on different platforms, i
 ## Accomplishments that we're proud of
 We were newbies to AR/VR and all of our work revolves around that. So gathering resources, getting to learn about "Lens studio" had to be completed in 48 hours. And we are proud of finishing our project and integrating all in the video. We experimented with a new platform and completed a project and that is in itself a great achievement!
 
-### Update: we won second overall(yayy!)
+
