@@ -1,4 +1,4 @@
-# To-the-moon-and-hack (Seccond overall winning submission)
+# To-the-moon-and-hack (Second overall winning submission)
 An AR based submission to a Major League Hackathon
 
 - This was a space themed hack.
